@@ -2,4 +2,8 @@
     "homepage": "https://github.com/raphamorim/rio",
     "version": "0.0.34",
     "bin": "rio",
+	"config": {
+		"file": "config.toml",
+		"path": "~/.config/rio/config.toml"
+	}
 }
